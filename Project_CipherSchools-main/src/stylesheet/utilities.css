@@ -1,0 +1,8 @@
+.hidden{
+    visibility: hidden;
+    display: none;
+}
+
+.height{
+    min-height: 45vh;
+}

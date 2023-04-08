@@ -1,0 +1,9 @@
+footer{
+    align-items: flex-start;
+    color: var(--white-color);
+}
+.footer-container{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    list-style: none;
+}
